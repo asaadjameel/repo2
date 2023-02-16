@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3C65-59B2
+
+ Directory of C:\Users\JameelA\Desktop\MyProject
+
+16-02-2023  10:39    <DIR>          .
+16-02-2023  10:39    <DIR>          ..
+16-02-2023  10:39                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  193,589,211,136 bytes free
